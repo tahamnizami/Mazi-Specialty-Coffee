@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Coffee Placeholder</title>
+  <desc id="desc">Illustrated coffee cup and warm cafe styling.</desc>
+  <rect width="1000" height="1000" fill="#f5efe6"/>
+  <rect x="0" y="700" width="1000" height="300" fill="#d5b288" opacity="0.45"/>
+  <ellipse cx="500" cy="560" rx="280" ry="220" fill="#5a4032"/>
+  <ellipse cx="500" cy="520" rx="200" ry="160" fill="#f5efe6"/>
+  <path d="M300 520 C350 430, 650 430, 700 520" stroke="#2b211c" stroke-width="22" fill="none" stroke-linecap="round"/>
+  <path d="M315 510 C370 470, 640 470, 690 515" stroke="#cdb9a0" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M750 540 C820 560, 860 610, 850 680" stroke="#2b211c" stroke-width="24" fill="none" stroke-linecap="round"/>
+  <path d="M320 720 C430 770, 570 770, 680 720" stroke="#2b211c" stroke-width="16" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <text x="260" y="190" fill="#2b211c" font-family="Georgia, serif" font-size="78" font-weight="700">Fresh Brew</text>
+</svg>

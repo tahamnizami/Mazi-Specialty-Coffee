@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Workshop Placeholder</title>
+  <desc id="desc">Illustrated creative workshop gathering in a cozy café.</desc>
+  <rect width="1200" height="800" fill="#f5efe6"/>
+  <rect x="0" y="580" width="1200" height="220" fill="#2b211c"/>
+  <rect x="120" y="260" width="200" height="260" rx="18" fill="#5a4032" opacity="0.9"/>
+  <rect x="360" y="230" width="220" height="290" rx="18" fill="#cdb9a0"/>
+  <rect x="620" y="280" width="200" height="240" rx="18" fill="#d9b07a" opacity="0.8"/>
+  <rect x="865" y="250" width="220" height="270" rx="18" fill="#66745c" opacity="0.8"/>
+  <circle cx="210" cy="200" r="62" fill="#f0d8af"/>
+  <circle cx="480" cy="160" r="70" fill="#f7e6d1"/>
+  <circle cx="930" cy="170" r="75" fill="#e7d5ba"/>
+  <path d="M90 610 Q600 500 1110 610" stroke="#f5efe6" stroke-width="8" fill="none" opacity="0.55"/>
+  <text x="150" y="150" fill="#2b211c" font-family="Georgia, serif" font-size="64" font-weight="700">Creative evenings</text>
+</svg>

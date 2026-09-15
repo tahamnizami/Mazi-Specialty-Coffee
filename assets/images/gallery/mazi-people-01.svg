@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="800" viewBox="0 0 1000 800" role="img" aria-labelledby="title desc">
+  <title id="title">People Placeholder</title>
+  <desc id="desc">Community gathering illustration at a warm café.</desc>
+  <rect width="1000" height="800" fill="#f5efe6"/>
+  <rect y="520" width="1000" height="280" fill="#2b211c"/>
+  <circle cx="260" cy="340" r="90" fill="#d7a57b"/>
+  <circle cx="510" cy="295" r="110" fill="#c7b7a3"/>
+  <circle cx="770" cy="330" r="95" fill="#dca57d"/>
+  <rect x="170" y="420" width="180" height="130" rx="18" fill="#e7d4bb"/>
+  <rect x="420" y="390" width="190" height="150" rx="18" fill="#d9c1a4"/>
+  <rect x="680" y="420" width="180" height="130" rx="18" fill="#ebd7be"/>
+  <path d="M110 640 Q500 540 890 640" stroke="#f3e9db" stroke-width="8" fill="none" opacity="0.6"/>
+  <text x="160" y="170" fill="#2b211c" font-family="Georgia, serif" font-size="62" font-weight="700">Good company</text>
+</svg>

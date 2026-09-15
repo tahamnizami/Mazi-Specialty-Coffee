@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Mazi Specialty Coffee Hero Placeholder</title>
+  <desc id="desc">Warm coffee shop illustration with seating, lights, and a cozy evening mood.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#2a1f1a"/>
+      <stop offset="50%" stop-color="#4b352d"/>
+      <stop offset="100%" stop-color="#c8955a"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#f0d7b4"/>
+      <stop offset="100%" stop-color="#e4b778"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1600" height="420" fill="url(#sky)" opacity="0.42"/>
+  <rect x="0" y="620" width="1600" height="380" fill="#2b211c" opacity="0.9"/>
+  <circle cx="1240" cy="190" r="66" fill="#f5efe6" opacity="0.8"/>
+  <rect x="110" y="520" width="1380" height="180" rx="20" fill="#5a4032" opacity="0.9"/>
+  <rect x="200" y="590" width="260" height="120" rx="18" fill="#cdb9a0" opacity="0.85"/>
+  <rect x="510" y="570" width="300" height="140" rx="18" fill="#efdfca" opacity="0.88"/>
+  <rect x="870" y="585" width="310" height="125" rx="18" fill="#dac8af" opacity="0.82"/>
+  <rect x="1220" y="600" width="210" height="110" rx="18" fill="#c7a988" opacity="0.75"/>
+  <g fill="#2b211c" opacity="0.8">
+    <rect x="220" y="710" width="220" height="18" rx="9"/>
+    <rect x="530" y="710" width="260" height="18" rx="9"/>
+    <rect x="900" y="705" width="260" height="18" rx="9"/>
+  </g>
+  <g fill="#f5efe6" font-family="Georgia, serif" font-size="92" font-weight="700">
+    <text x="146" y="170" letter-spacing="6">MAZI</text>
+  </g>
+  <g fill="#f4e6d2" font-family="Arial, sans-serif" font-size="34" letter-spacing="4">
+    <text x="150" y="220">COFFEE • MUSIC • COMPANY</text>
+  </g>
+</svg>
